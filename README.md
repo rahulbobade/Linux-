@@ -1,2 +1,3 @@
 # Linux-
 Basic 
+assign IP 
